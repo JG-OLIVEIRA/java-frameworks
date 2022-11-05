@@ -1,0 +1,4 @@
+[mysqld]
+max_allowed_packet=100000000
+innodb_file_format = BARRACUDA
+innodb_large_prefix = ON
